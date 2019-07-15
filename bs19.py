@@ -4,4 +4,4 @@ while c<=a and c!=0:
     sum+=c 
     c-=1 
 print(sum)
-aassdfghhh
+
